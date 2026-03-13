@@ -1,3 +1,6 @@
+A an aggregator for CDP product updates that monitors product updates for CDP vendors (Adobe, Tealium, SF Data Cloud etc.) on a quarterly basis and and displays them in one easy to read view
+
+
 # Welcome to your Lovable project
 
 ## Project info
